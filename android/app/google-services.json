@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702547180623",
+    "firebase_url": "https://flutterdemo-f430e.firebaseio.com",
+    "project_id": "flutterdemo-f430e",
+    "storage_bucket": "flutterdemo-f430e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702547180623:android:09f6c5e4a6ca115b663e3a",
+        "android_client_info": {
+          "package_name": "com.sofia.firebasedemo.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702547180623-8hcrkov3mpsq3f7pncl26jtjmiasttl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sofia.firebasedemo.firebasedemo",
+            "certificate_hash": "36d91949432e9ee2dfe3cb2a1bff0c470b3af05b"
+          }
+        },
+        {
+          "client_id": "702547180623-pep3mg9invblvj3ovjmcb6jf56russls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgVDwf4Rz40-EFB1zy9Rb1oC_B_AREULE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702547180623-pep3mg9invblvj3ovjmcb6jf56russls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
